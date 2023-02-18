@@ -1,0 +1,6 @@
+Marian Kowal 12345678911 zielony
+Jan Kowalski 12345678911 żółty
+Magdalena Kowalska 12345678913 żółty
+Amelia Wach 12345678914 zielony
+Mariusz Stanowski 12345678915 czerwony
+Michał Margol 12345678916 zielony

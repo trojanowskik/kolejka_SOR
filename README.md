@@ -1,4 +1,4 @@
-# Obsługa pacjentów na SOR z wykorzystaniem kolejki priorytetowej
+# Obsługa kolejki na SOR z wykorzystaniem listy priorytetowej
 > Projekt powstał w ramach zaliczenia przedmiotu "Struktury i algorytmy danych"
 
 ## Spis treści
@@ -9,7 +9,7 @@
 
 
 ## Informacje ogólne
-Celem projektu było stworzenie aplikacji, która będzie pomagała w obsłudze kolejki pacjentów na SOR z wykoryztaniem kolejki priorytetowej.
+Celem projektu było stworzenie aplikacji, która będzie pomagała w obsłudze kolejki pacjentów na SOR z wykoryztaniem listy priorytetowej.
 
 
 ## Użyte technologie
